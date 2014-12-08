@@ -1,0 +1,5 @@
+android_prebuilt_aar(
+	name = 'google-play-service',
+	aar = 'google-play-services_lib.aar',
+	visibility = [ 'PUBLIC' ],
+)
